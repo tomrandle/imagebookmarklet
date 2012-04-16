@@ -1,4 +1,4 @@
-
+# Info
 
 This is my attempt at recreating the Pinterest bookmarklet. It detects all the inline and background images on a page over a certain size and overlays them in a grid. Each picture links to the original file. 
 
@@ -8,7 +8,7 @@ To get it to work add a bookmark to your browser and set the address to be:
 
 If you wish to edit your own version of the bookmarklet you'll have to change this location and that of the css file.
 
-
+# License
 
 Copyright (C) 2012 Tom Randle
 
